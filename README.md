@@ -83,7 +83,7 @@ To build a data-driven, visual solution that:
 
 📄 **SQL Output Results**:
 
-* [SaaS\_Customer\_Churn.pdf](https://github.com/your-username/your-repo-name/blob/main/SaaS_Customer_Churn.pdf) contains all query results for quick business understanding
+* (https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/SaaS_Customer_Churn.pdf) contains all query results for quick business understanding
 
 ---
 
