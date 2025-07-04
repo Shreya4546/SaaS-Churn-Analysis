@@ -132,7 +132,7 @@ To build a data-driven, visual solution that:
 
 ```markdown
 - [📁 SQL Queries](https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/customer_churn_sql.sql)
-- [📓 Python Notebook](https://github.com/your-username/your-repo-name/blob/main/Customer%20Churn.ipynb)
+- [📓 Python Notebook](https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/Customer%20Churn.ipynb)
 - [📄 SQL Results PDF](https://github.com/your-username/your-repo-name/blob/main/SaaS_Customer_Churn.pdf)
 - [📊 Power BI Dashboard](https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/Churn%20Analysis%20Dashboard.pbix)
 ```
